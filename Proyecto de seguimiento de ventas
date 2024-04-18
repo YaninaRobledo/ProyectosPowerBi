@@ -1,0 +1,25 @@
+Objetivo:
+
+El objetivo principal de este proyecto es rastrear y analizar las ventas de productos de tecnologia.
+Queremos obtener información sobre los productos más vendidos, los clientes más activos y las tendencias de ventas a lo largo del tiempo.
+
+Características Clave:
+
+Registro de Ventas:
+Cada registro de venta incluye detalles como el cliente, marca, la cantidad, el precio y la fecha.
+
+Gestión de Productos:
+Los administradores pueden agregar, editar o eliminar productos en el catálogo.
+Cada producto tiene atributos como nombre, categoría, precio y cantidad en stock.
+
+Generación de Informes:
+Se generan informes periódicos sobre las ventas totales, los productos más vendidos y los ingresos.
+Los informes ayudan a los gerentes a tomar decisiones informadas sobre el inventario y las estrategias de marketing.
+
+Análisis de Tendencias:
+Utilizando gráficos y visualizaciones, se analizan las tendencias de ventas a lo largo del tiempo.
+Esto ayuda a identificar patrones estacionales y oportunidades de crecimiento.
+
+Tecnologías Utilizadas:
+Base de Datos: Excel
+Visualización de Datos: Power Bi
